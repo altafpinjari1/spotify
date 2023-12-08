@@ -1,0 +1,64 @@
+.footer-main{
+    height: 40vh;
+    width: 100%;
+    background-color: black;
+}
+.footer-name{
+    color: #919496;
+    font-size: 0.8rem !important;
+}
+.list-unstyled li{
+    margin-top: 3vh;
+    font-weight: 600;
+    
+}
+.list-unstyled li:hover{
+    margin-top: 3vh;
+    font-weight: 600;
+    color: rgb(74, 241, 74) !important;
+}
+.circle{
+    height: 8vh;
+    width: 8vh;
+    border-radius: 8vh;
+    margin: 2vh;
+    background-color: #222326;
+   
+}
+.circles{
+    display: flex;
+    flex-direction: row;
+    margin-left: 50vh;
+}
+.circle img{
+    z-index: 9;
+    height: 4vh;
+width: 4vh;
+background-color: white;
+margin-top: 2vh;
+cursor: pointer;
+}
+.circle img:hover{
+    z-index: 9;
+    height: 4vh;
+width: 4vh;
+background-color: rgb(74, 241, 74);
+margin-top: 2vh;
+cursor: pointer;
+}
+.last-ftr{
+    font-size: 0.7em !important;
+    color: #919496;
+}
+.last-ftr:hover{
+    font-size: 0.7em !important;
+    color: rgb(74, 241, 74);
+}
+.second-ftr{
+    margin-top: 14vh !important;
+}
+.last-ftr2{
+    font-size: 0.7em !important;
+    color: #919496;
+    margin-left: 18vw;
+}

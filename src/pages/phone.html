@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mobile Phone</title>
+    <style>
+        .phone {
+            position: relative;
+            width: 320px;
+            height: 600px;
+            /* background-color: #fff; */
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+            margin-left: 170px;
+            margin-top: 20vh;
+        }
+
+        .screen {
+            position: absolute;
+            top: 60px;
+            left: 10px;
+            right: 10px;
+            bottom: 10px;
+            background-color: #fff;
+            overflow: hidden;
+
+        }
+
+        .inner-image {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .button {
+            position: absolute;
+            top: 10px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 60px;
+            height: 10px;
+            background-color: #333;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="phone">
+        <div class="button"></div>
+        <div class="screen">
+            <img class="inner-image" src="https://i.scdn.co/image/ab678e040000ed3aed58911aecc6dbc16949f40b"
+                alt="Inner Image">
+        </div>
+    </div>
+
+</body>
+
+</html>

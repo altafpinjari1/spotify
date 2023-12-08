@@ -1,23 +1,23 @@
 import logo from './logo.svg';
 import './App.css';
+import Navspotify from './navigation/Navspotify';
+import Herosection from './pages/Herosection';
+import Secondpage from './pages/Secondpage';
+import Third from './pages/Third';
+import Fourth from './pages/Fourth';
+import Fifthpage from './pages/Fifthpage';
+import Footer from './footer/Footer';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Navspotify />
+      <Herosection />
+      <Secondpage />
+      <Third />
+      <Fourth />
+      <Fifthpage />
+      <Footer />
     </div>
   );
 }

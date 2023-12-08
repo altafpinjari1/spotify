@@ -1,0 +1,13 @@
+.third{
+    background: linear-gradient(rgb(176, 35, 194) 15%, rgb(96, 11, 231));
+    height: 70vh;
+    width: 100%;
+}
+.third h1{
+    position: relative;
+    text-align: center;
+    top: 30vh;
+    color: white;
+    font-size: 7vh;
+    font-weight:700;
+}

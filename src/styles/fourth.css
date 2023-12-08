@@ -1,0 +1,17 @@
+accordion{/* width: '80vw',margin:"auto",fontSize:'2rem !important'}} */
+
+width: 80vw !important;
+margin: auto !important;
+font-size: 2rem !important;
+
+}
+.listing{
+    float: left;
+    font-size: 1rem;
+}
+.listing ol{
+    text-align: start;
+}
+.list-items{
+    margin-top: '10vh' !important;
+}

@@ -1,0 +1,49 @@
+.d-inline-block{
+    margin-left: 8vw;
+}
+.justify-content-end{
+    margin-right:5vw;
+}
+.nav1{
+    margin-right: 2.5vw;
+    font-size: 1.2vw !important;
+    color: white !important;
+    font-weight:600 !important;
+}
+.nav1:hover{
+    color: rgb(74, 241, 74) !important;
+    }
+.nav2:hover{
+    color: rgb(74, 241, 74) !important;
+    }
+.nav3:hover{
+    color: rgb(74, 241, 74) !important;
+    }
+.nav4:hover{
+    color:rgb(74, 241, 74) !important;
+    }
+.nav5:hover{
+color: rgb(74, 241, 74) !important;
+}
+.nav2{
+    margin-right: 2.5vw;
+    font-size: 1.2vw !important;
+    color: white !important;
+    font-weight:600 !important;
+}
+.nav3{
+    margin-right: 2.5vw;
+    font-size: 1.2vw !important;
+    color: white !important;
+    font-weight:600 !important;
+}
+.nav4{
+    margin-right: 2.5vw;
+    font-size: 1.2vw !important;
+    font-weight:600 !important;
+}
+.nav5{
+    margin-right: 2.5vw;
+    font-size: 1.2vw !important;
+    font-weight:600 !important;
+}

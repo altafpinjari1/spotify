@@ -1,0 +1,15 @@
+.second{
+    background-color: white;
+    height: 80vh;
+    z-index: 9 !important;
+}
+.second h1{
+    margin-top: 12vh;
+    font-weight: 700;
+}
+.cards-row{
+    margin-top: -10vh !important;
+}
+.mt-4{
+    font-weight: 700 !important;
+}
