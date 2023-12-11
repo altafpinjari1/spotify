@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/spotify/static/css/main.9bb3aac9.css",
-    "main.js": "/spotify/static/js/main.2977c21f.js",
-    "static/js/787.83e7581c.chunk.js": "/spotify/static/js/787.83e7581c.chunk.js",
-    "static/media/icon4.png": "/spotify/static/media/icon4.5f32b0828d2a305e8982.png",
-    "static/media/icon2.png": "/spotify/static/media/icon2.4d4a116b6fbe7e67bfa1.png",
-    "static/media/icon3.png": "/spotify/static/media/icon3.c992bb6b7a0db814fd0a.png",
-    "static/media/icon1.png": "/spotify/static/media/icon1.81a15164fda3dd29ed37.png",
-    "static/media/logo.png": "/spotify/static/media/logo.6b8d93bb5fd2e10a2d1a.png",
-    "static/media/insta.svg": "/spotify/static/media/insta.0ee88d00a23a555d863b05da08816186.svg",
-    "static/media/twitter.svg": "/spotify/static/media/twitter.943853ff5a405ac487d5b75a8c1bc746.svg",
-    "index.html": "/spotify/index.html",
-    "static/media/face.svg": "/spotify/static/media/face.118cb16d3c1ce93eead5f94406e24212.svg",
-    "main.9bb3aac9.css.map": "/spotify/static/css/main.9bb3aac9.css.map",
-    "main.2977c21f.js.map": "/spotify/static/js/main.2977c21f.js.map",
-    "787.83e7581c.chunk.js.map": "/spotify/static/js/787.83e7581c.chunk.js.map"
+    "main.css": "/redspotify/static/css/main.9bb3aac9.css",
+    "main.js": "/redspotify/static/js/main.f8a63701.js",
+    "static/js/787.83e7581c.chunk.js": "/redspotify/static/js/787.83e7581c.chunk.js",
+    "static/media/icon4.png": "/redspotify/static/media/icon4.5f32b0828d2a305e8982.png",
+    "static/media/icon2.png": "/redspotify/static/media/icon2.4d4a116b6fbe7e67bfa1.png",
+    "static/media/icon3.png": "/redspotify/static/media/icon3.c992bb6b7a0db814fd0a.png",
+    "static/media/icon1.png": "/redspotify/static/media/icon1.81a15164fda3dd29ed37.png",
+    "static/media/logo.png": "/redspotify/static/media/logo.6b8d93bb5fd2e10a2d1a.png",
+    "static/media/insta.svg": "/redspotify/static/media/insta.0ee88d00a23a555d863b05da08816186.svg",
+    "static/media/twitter.svg": "/redspotify/static/media/twitter.943853ff5a405ac487d5b75a8c1bc746.svg",
+    "index.html": "/redspotify/index.html",
+    "static/media/face.svg": "/redspotify/static/media/face.118cb16d3c1ce93eead5f94406e24212.svg",
+    "main.9bb3aac9.css.map": "/redspotify/static/css/main.9bb3aac9.css.map",
+    "main.f8a63701.js.map": "/redspotify/static/js/main.f8a63701.js.map",
+    "787.83e7581c.chunk.js.map": "/redspotify/static/js/787.83e7581c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9bb3aac9.css",
-    "static/js/main.2977c21f.js"
+    "static/js/main.f8a63701.js"
   ]
 }
